@@ -14,12 +14,13 @@ git config --global user.email "1650912111@qq.com"
           ```
         3)  在推送和下拉github上的库时，github不再使用 密码进行认证，而是使用token，当前token是：
         ```git
-        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
+        xxx
         ```
         通过以下方式进行添加认证，则后面无需再填写用户名和密码了
         ```git
-        git remote set-url origin https://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@github.com/wuchuankang/repo.git
-        ```
+        git remote set-url origin https://xxx@github.com/wuchuankang/repo.git
+        ```  
+        github生成新的token的方式：在github账户图标左击选中Settings->Developer settings->personal access tokens 生成即可。
         4) 查看当前仓库添加的远程仓库  
         ```
         git remote -v
