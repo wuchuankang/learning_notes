@@ -1,0 +1,24 @@
+{
+        "workbench.colorTheme": "One Dark Pro Flat",
+        "editor.detectIndentation": false,
+        "editor.tabSize": 8,
+        "editor.lineHeight": 22,
+        "vscode-neovim.neovimExecutablePaths.linux": "/usr/bin/nvim",
+        "vscode-neovim.useCtrlKeysForInsertMode": false,
+        "vscode-neovim.useCtrlKeysForNormalMode": false,
+        "terminal.integrated.fontFamily": "monospace",
+        "explorer.confirmDelete": false,
+        "keyboard.dispatch": "keyCode",
+        "cmake.configureOnOpen": true,
+        "C_Cpp.vcFormat.indent.accessSpecifiers": true,
+        "editor.tabCompletion": "on",
+        "css.format.enable": false,
+        "scss.format.enable": false,
+        "git.enableSmartCommit": true,
+        "git.confirmSync": false,
+        "[markdown]":  {
+                "editor.quickSuggestions": true
+             } 
+ }
+
+ 
